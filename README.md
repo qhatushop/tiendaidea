@@ -1,0 +1,2 @@
+# tiendaidea
+GitHub Pages
